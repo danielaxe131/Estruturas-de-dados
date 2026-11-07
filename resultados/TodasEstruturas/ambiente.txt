@@ -1,0 +1,14 @@
+Java: 17.0.15
+VM: OpenJDK 64-Bit Server VM
+SO: Windows 10 amd64
+Processadores logicos: 4
+Processador: Intel Core i5-3210M
+Memoria Ram: 16 - GB RAM Dual-Channel(2 x 8GB)
+Heap maximo (bytes): 4267704320
+Semente: 42; tamanhos: [5000, 10000, 100000]
+Estruturas: TodasEstruturas
+Um aquecimento e cinco medicoes por estrutura/tamanho/ordem/teste.
+Cada execucao independente; construcao inclui criacao; demais reconstrucoes fora do tempo.
+Arrays: capacidade inicial n + n/10.
+Hash: capacidade inicial 16; sondagem linear; fator 0.7; dobra e reinsere ao ampliar.
+
